@@ -4,4 +4,4 @@ Desenvolvimento de um jogo baseado no jogo de sucesso Mario bros, a proposta sur
 Ferramentas usadas:
 - QT
 - Biblioteca GLUT
-- Lianguagem de programação C++
+- Linguagem de programação C++
